@@ -29,10 +29,11 @@ Masroof is an intelligent mobile application concept designed as a financial ass
 
 ## 👥Participants
 
-* SAJA ALZAHRANI
-* ELAF ALBELALI
-* MARAM ALKHAMIS
-* RAGHAD BASELM
-  
+* Saja Alzahrani
+* Elaf Albelali
+* Maram Alkhamis
+* Raghad Baselm
+
+
 
 
