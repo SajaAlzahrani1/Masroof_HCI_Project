@@ -8,11 +8,11 @@ Masroof is an intelligent mobile application concept designed as a financial ass
 
 ## Key Features
 
-* **Voice-Driven Entry:** Instantly log expenses using quick voice notes to eliminate manual typing friction.
-* **Progressive Disclosure:** Interactive, expandable advice cards that display financial recommendations without cluttering the screen.
-* **Context-Aware Suggestions:** Practical localized recommendations tailored to the student environment (e.g., using the Metro or University Bus).
-* **Positive Reinforcement:** Budget alerts using friendly, motivational microcopy rather than stress-inducing warnings.
-* **Granular Notification Control:** Comprehensive settings allowing students to fully customize alerts and prevent cognitive overload.
+* **🎙️ Voice-Driven Entry:** Instantly capture and log expenses via quick voice notes, eliminating manual typing friction.
+* **🧠 Progressive Disclosure:** Interactive, expandable accordion cards that display financial insights briefly, expanding on-click to prevent dashboard clutter.
+* **🚌 Context-Aware Suggestions:** Practical localized recommendations tailored to the student environment (e.g., suggesting the Metro or University Bus).
+* **🔔 Friendly Budget Alerts:** Shifting away from stressful red alerts to positive reinforcement and motivating microcopy when approaching budget thresholds.
+* **🛡️ Enhanced User Control:** Comprehensive system freedom, including granular notification settings and immediate `Undo` safety nets for accidental deletions.
 
 ## Design Process
 
