@@ -12,7 +12,6 @@ Masroof is an intelligent mobile application concept designed as a financial ass
 * **🧠 Progressive Disclosure:** Interactive, expandable accordion cards that display financial insights briefly, expanding on-click to prevent dashboard clutter.
 * **🚌 Context-Aware Suggestions:** Practical localized recommendations tailored to the student environment (e.g., suggesting the Metro or University Bus).
 * **🔔 Friendly Budget Alerts:** Shifting away from stressful red alerts to positive reinforcement and motivating microcopy when approaching budget thresholds.
-* **🛡️ Enhanced User Control:** Comprehensive system freedom, including granular notification settings and immediate `Undo` safety nets for accidental deletions.
 
 ## Design Process
 
