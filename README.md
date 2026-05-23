@@ -24,4 +24,6 @@ Masroof is an intelligent mobile application concept designed as a financial ass
 ## Tools Used
 
 * Figma (High-fidelity prototype & interactive UI architecture)
+* Usability Testing: Conducted behavioral and task-based testing to validate layout clarity, reduce cognitive load, and optimize user flows.
+* HCI principles and Nielsen heuristics
 
