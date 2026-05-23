@@ -27,3 +27,12 @@ Masroof is an intelligent mobile application concept designed as a financial ass
 * Usability Testing: Conducted behavioral and task-based testing to validate layout clarity, reduce cognitive load, and optimize user flows.
 * HCI principles and Nielsen heuristics
 
+## 👥Participants
+
+* SAJA ALZAHRANI
+* ELAF ALBELALI
+* MARAM ALKHAMIS
+* RAGHAD BASELM
+  
+
+
