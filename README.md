@@ -17,9 +17,9 @@ Masroof is an intelligent mobile application concept designed as a financial ass
 ## Design Process
 
 * User research via questionnaires (62 target respondents aged 18–25)
-* Establishing core functional and usability requirements (e.g., 3-click logging, 3-second layout clarity)
+* Establishing core functional and usability requirements 
 * High-fidelity prototyping with interactive variants and micro-animations
-* Heuristic evaluation and accessibility refinement (Error prevention & "Undo" safety nets)
+* Heuristic evaluation and accessibility refinement 
 
 ## Tools Used
 
