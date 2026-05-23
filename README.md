@@ -1,4 +1,4 @@
-# Masroof (مصروف) 📱💸
+# Masroof مصروف 💸
 
 Human-Computer Interaction Project (KSU - CSC 440)
 
