@@ -1,26 +1,27 @@
-# 📱 Masroof (مصروف) - A Finance Decision Assistant
+# Masroof (مصروف) 📱💸
 
-> An interactive mobile UI prototype designed to empower university students to take control of their daily finances effortlessly. Built using Human-Computer Interaction (HCI) principles.
+Human-Computer Interaction Project (KSU - CSC 440)
 
+## Overview
 
-## 🎯 Project Overview
-Managing personal finances is one of the biggest hurdles for university students today. Balancing a limited monthly allowance against recurring daily costs (like coffee, meals, and transportation) often leads to running out of money before the end of the month. 
+Masroof is an intelligent mobile application concept designed as a financial assistant for university students. It empowers students to track their daily expenses effortlessly, view dynamic insights, and manage their monthly allowance within a stress-free, engaging interface.
 
-**Masroof** is a smart financial companion engineered specifically to bridge this gap. By focusing heavily on **usability, simplicity, and accessibility**, the system removes the friction of traditional financial tools, turning expense tracking into a seamless, stress-free habit.
+## Key Features
 
+* **Voice-Driven Entry:** Instantly log expenses using quick voice notes to eliminate manual typing friction.
+* **Progressive Disclosure:** Interactive, expandable advice cards that display financial recommendations without cluttering the screen.
+* **Context-Aware Suggestions:** Practical localized recommendations tailored to the student environment (e.g., using the Metro or University Bus).
+* **Positive Reinforcement:** Budget alerts using friendly, motivational microcopy rather than stress-inducing warnings.
+* **Granular Notification Control:** Comprehensive settings allowing students to fully customize alerts and prevent cognitive overload.
 
-## ⚠️ The Problem
-Through user research and data gathering (surveying 62 respondents from our target demographic), we identified two critical barriers to consistent financial tracking:
-1. **High Friction & Tedious Manual Entry:** 79% of users agree that typing in every single expense is exhausting and time-consuming.
-2. **Forgetfulness:** 82% of students frequently forget or neglect to log their daily transactions amid busy academic schedules, leading to incomplete financial records.
+## Design Process
 
-Traditional tracking applications are either too complex, require steep learning curves, or rely on scary, warning-heavy interfaces that induce financial anxiety rather than offering constructive support.
+* User research via questionnaires (62 target respondents aged 18–25)
+* Establishing core functional and usability requirements (e.g., 3-click logging, 3-second layout clarity)
+* High-fidelity prototyping with interactive variants and micro-animations
+* Heuristic evaluation and accessibility refinement (Error prevention & "Undo" safety nets)
 
+## Tools Used
 
-## 💡 Our Solution & Core Features
-**Masroof** tackles these challenges directly by automating data entry and applying **HCI principles** to create an engaging, stress-free ecosystem:
-
-* **🎙️ Voice-Driven Entry:** Users can capture and log expenses instantly via voice notes. The system processes the audio and automatically structures it into categorized financial data.
-* **🧠 Progressive Disclosure (Context-Aware Insights):** Instead of overwhelming the student with cluttered dashboards, the interface utilizes expandable, accordion-style cards. It shows potential financial issues briefly, expanding on-click to reveal dynamic, highly practical alternatives (e.g., suggesting the Metro or University Bus when transport costs spike).
-* **🔔 Friendly & Proactive Budget Alerts:** Shifting away from standard high-stress red alerts, the system utilizes positive reinforcement and motivating language to keep students on track as they approach 55% of their budget threshold.
+* Figma (High-fidelity prototype & interactive UI architecture)
 
