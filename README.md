@@ -23,9 +23,8 @@ Traditional tracking applications are either too complex, require steep learning
 ## 💡 Our Solution & Core Features
 **Masroof** tackles these challenges directly by automating data entry and applying **HCI principles** to create an engaging, stress-free ecosystem:
 
-* **🎙️ Voice-Driven Entry (Zero Friction):** Users can capture and log expenses instantly via voice notes. The system processes the audio and automatically structures it into categorized financial data.
+* **🎙️ Voice-Driven Entry:** Users can capture and log expenses instantly via voice notes. The system processes the audio and automatically structures it into categorized financial data.
 * **🧠 Progressive Disclosure (Context-Aware Insights):** Instead of overwhelming the student with cluttered dashboards, the interface utilizes expandable, accordion-style cards. It shows potential financial issues briefly, expanding on-click to reveal dynamic, highly practical alternatives (e.g., suggesting the Metro or University Bus when transport costs spike).
 * **🔔 Friendly & Proactive Budget Alerts:** Shifting away from standard high-stress red alerts, the system utilizes positive reinforcement and motivating language to keep students on track as they approach 55% of their budget threshold.
-* **🛡️ Enhanced User Control (Safety Nets):** Includes immediate "Undo" actions for accidental deletions and granular customization of system notifications to eliminate information overload.
 
 ---
